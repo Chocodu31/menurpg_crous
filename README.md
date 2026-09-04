@@ -7,3 +7,5 @@ Grace a cette application, VOUS serez capable de connaitre le menu du jour, du s
 Pour cela il vous suffit juste de finir l'histoire principal (90h environ) et ensuite de recommencer en hard (180h environ).
 
 C'est android l'app, la flemme de faire sur iOS.
+
+BON IL S'AVèRE QUE QUELQU4UN A DEJA FAIT SA DCP ONT UTILISE L4API TASTY CROUTY https://api.croustillant.menu/ MERCI 
