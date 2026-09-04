@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void scrapMenu(String text) {
-        Pattern pattern = Pattern.compile("Menu du *", Pattern.CASE_INSENSITIVE);
+        Pattern pattern = Pattern.compile("Menu du .*", Pattern.CASE_INSENSITIVE);
         Matcher matcher = pattern.matcher(text);
         boolean matchFound = matcher.find();
         if(matchFound) {
